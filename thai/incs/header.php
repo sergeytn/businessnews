@@ -16,7 +16,7 @@
     <link href="styles/defaults.css" rel="stylesheet">
     <link href="styles/blocks.css" rel="stylesheet">
     <link href="styles/pages.css" rel="stylesheet">
-    <title>ThaiBusnessPedia</title>
+    <title>ThaiBusiness.Online</title>
   </head>
   <body>
     <header class="header">
