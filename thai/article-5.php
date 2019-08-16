@@ -84,6 +84,7 @@
                   <section class="article__panel">
                     <div class="article__tags btns-spacer">
                     <a href="/" class="btn btn--hash-tag">Tim Ferris</a>
+                    </div>
                   </section>
                 </div>
 

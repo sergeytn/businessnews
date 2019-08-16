@@ -71,6 +71,7 @@
                     <div class="article__tags btns-spacer">
                     <a href="/" class="btn btn--hash-tag">หลักการ</a>
                     <a href="/" class="btn btn--hash-tag">รวยร</a>
+                    </div>
                   </section>
                 </div>
 

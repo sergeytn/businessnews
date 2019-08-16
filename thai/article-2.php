@@ -113,6 +113,7 @@
                   <section class="article__panel">
                     <div class="article__tags btns-spacer">
                     <a href="/" class="btn btn--hash-tag">Jeff Bezos</a>
+                    </div>
                   </section>
                 </div>
 
