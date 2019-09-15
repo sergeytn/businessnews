@@ -63,4 +63,11 @@
  $article[8]['views']="13092";
  $article[8]['comments']="12";
 
+ $article[9]['author']="Luk Kaw";
+ $article[9]['author-image']="item_1.png";
+ $article[9]['title']="Exness เป็นโบรกเกอร์ที่หลอกลวงหรือไม่? Exness เป็นโบรกเกอร์ที่มีความน่าเชื่อหรือไม่?";
+ $article[9]['date']="15.09, 15:00";
+ $article[9]['views']="22324";
+ $article[9]['comments']="16";
+
 ?>
